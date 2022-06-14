@@ -5,8 +5,8 @@ public class TesteExecSQL {
         conexao con = new conexao();
 
         String sql = "INSERT into cliente (id, nome, email)"+
-                "values (default, 'Leo',"+
-                "'leo@rodaelli.com')";
+                "values (default, 'Souza',"+
+                "'ls@rodaelli.com')";
 
         int res = con.executaSQL(sql);
 

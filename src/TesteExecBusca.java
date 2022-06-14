@@ -5,7 +5,7 @@ public class TesteExecBusca {
     public static void main(String[] args) {
         conexao con = new conexao();
 
-        String sql = "SELECT * from cliente";
+        String sql = "select * from cliente";
 
         ResultSet rs = con.executaBusca(sql);
 

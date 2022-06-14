@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d189a2b-ac16-43ee-9d0b-75e101b16b4c" name="Changes" comment="Trocando o nome no insert!">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteExecBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteExecBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteExecSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteExecSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conexao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +39,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/leoro/Downloads/postgresql-42.3.6.jar",
+    "last_opened_file_path": "C:/Users/leoro/Desktop/Java/JavaConexaoComPostgreSQL",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteExecDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteExecDelete" />
+      <module name="JavaConexaoComPostgreSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteExecSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesteExecSQL" />
       <module name="JavaConexaoComPostgreSQL" />
@@ -72,15 +84,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="executaUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executaUpdate" />
+      <module name="JavaConexaoComPostgreSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeExecDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testeExecDelete" />
+      <module name="JavaConexaoComPostgreSQL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.executaUpdate" />
+      <item itemvalue="Application.testeExecDelete" />
+      <item itemvalue="Application.TesteExecDelete" />
       <item itemvalue="Application.TesteExecBusca" />
       <item itemvalue="Application.TesteExecSQL" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TesteExecBusca" />
+        <item itemvalue="Application.executaUpdate" />
+        <item itemvalue="Application.testeExecDelete" />
         <item itemvalue="Application.TesteExecSQL" />
+        <item itemvalue="Application.TesteExecDelete" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +125,10 @@
       <option name="presentableId" value="Default" />
       <updated>1654544941206</updated>
       <workItem from="1654544943026" duration="76000" />
-      <workItem from="1654605916265" duration="3912000" />
+      <workItem from="1654605916265" duration="4154000" />
+      <workItem from="1655092721938" duration="3604000" />
+      <workItem from="1655123958453" duration="622000" />
+      <workItem from="1655206413334" duration="1744000" />
     </task>
     <task id="LOCAL-00001" summary="Trocando o nome no insert!">
       <created>1654610772353</created>
